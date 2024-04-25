@@ -1,4 +1,4 @@
-![Template rluipdev]( )
+![Template rluipdev](Template/rluispdev.png )
  # Resumo do projeto
 Resolver uma Feature Request que eu mesmo criei em outra Conta GitHub. .
 
@@ -10,6 +10,8 @@ Resolver uma Feature Request que eu mesmo criei em outra Conta GitHub. .
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``Git Hub``
+- ``Firefox``
+- ``Safari``
  
 
 
